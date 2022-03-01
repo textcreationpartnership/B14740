@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Est natura hominum nouitatis auida The Scottish queens buriall at Peterborough, vpon Tuesday beeing Lammas day. 1587.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14740</idno>
+            <idno type="STC">STC 17566.7</idno>
+            <idno type="STC">ESTC S103485</idno>
+            <idno type="EEBO-CITATION">99839238</idno>
+            <idno type="PROQUEST">99839238</idno>
+            <idno type="VID">176881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 716:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Est natura hominum nouitatis auida The Scottish queens buriall at Peterborough, vpon Tuesday beeing Lammas day. 1587.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. I[effes], for Edwarde Venge, and are to be sold at his shop without Bishops-gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1589]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title page: 1589.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Page number 1 is verso of title page.</note>
+                  <note>Identified as STC 17566a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  Queen of Scots, 1542-1587 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176881:1"/>
+            <pb facs="tcp:176881:1" rendition="simple:additions"/>
+            <p>1589.</p>
+            <q xml:lang="lat">Eſt natura hominum no<g ref="char:EOLhyphen"/>uitatis auida.</q>
+            <p>THE SCOTTISH Queens Buriall at Peterbo<g ref="char:EOLhyphen"/>rough, vpon Tueſday beeing Lammas day. 1587.</p>
+            <p>London. <hi>Printed by A I, for Edwarde Venge, and are to be ſold at his ſhop without Biſhops-gate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176881:2"/>
+            <head>The Scottiſh Queenes Buriall at Peterbo<g ref="char:EOLhyphen"/>rough, vpon Tueſday, being Lam<g ref="char:EOLhyphen"/>mas day. 1587.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Er bodie was brought in a Coutch (about 100 atten<g ref="char:EOLhyphen"/>ding thereon from <hi>Fothe<g ref="char:EOLhyphen"/>ringham</hi> caſtell vpon Son<g ref="char:EOLhyphen"/>day at night, the Biſhop of <hi>Peterborough,</hi> the Deane, the Prebendes, &amp; the reſt meeting the ſame at the Bridge, being not far from the town, and ſo conueighed it to the Biſhops Pallace, and from thence vpon Tueſday being Lam<g ref="char:EOLhyphen"/>mas day, was caried to the Church where ſhe was buried on the ſouth ſide of the hearſe by torch light.</p>
+            <p>The Hearſe was made field-bed wiſe, the vallance of blacke veluet with a golde fringe, the top of the imperiall couered wite Baies: About it was ſet 10 Poſies, <hi>In my defence God me defend,</hi> with 10 Scutchions greate and litle, and at the toppe a double one with a Crowne imperiall thereupon. The ſuppor<g ref="char:EOLhyphen"/>ters, Vnicornes with 100 Pendons or litle
+<pb n="2" facs="tcp:176881:2"/>Flags: It was impaled with Baies, and in it 14 ſtooles with blacke veluet cuſhions: vp<g ref="char:EOLhyphen"/>on the pillers ſuſtaining the imperiall of the Hearſe, the which were all couered with vel: uet, were fixed Scutchions, bearing either red Lion alone, or els parted with the Armes of <hi>France,</hi> or with the Armes of the Lorde <hi>Lineaux.</hi> The Church and Chancell were hanged with baies, and Scutchions as at o<g ref="char:EOLhyphen"/>ther Funerals. The Mourners came out of the Biſhops pallace, being ſet in order in the by the Herralds thus. Firſt 100 Releeuants poore old women, for the moſt part widowes in blacke cloth gownes, with an ell of white Holland ouer their heades, which they had for their labor, and 9. ſhillings apeece in monie: Theſe deuided themſelues in the bodie of the Church, and ſtood halfe on the one ſide, and halfe on the other, and there ſtood during the whole ſolemnitie. At the Church doore the ſinging men and Quiriſters met the Mour<g ref="char:EOLhyphen"/>ners with a pſalme, and led them the way in<g ref="char:EOLhyphen"/>to the Chancell, continuing ſinging with the Organs vntil the ſermon began. Then follo<g ref="char:EOLhyphen"/>wed two yeomen, viz. the Sherifes bailiefe, and the bailiefe of <hi>Peterborough,</hi> with black ſtaues, &amp; after them mourning coates. Then Sir <hi>Nicholas Sauell</hi> in a mourning gowne
+<pb n="3" facs="tcp:176881:3"/>carrieng the great Standard, viz. a<g ref="char:cmbAbbrStroke">̄</g> Croſſe in a Field Azur: the Streamer, an Vnicorne Argent in a field of Guiles, a poeſie written. <hi>In my defence God me defend.</hi> Then followed mourning cloakes by two and two, a greate nu<g ref="char:cmbAbbrStroke">̄</g>ber, wherof the firſt were late the Queens officers, and after them mourning gownes: Among theſe officers of her houſe, was a French Ieſuit her Confeſſor, with a golden Crucifix about his necke, which he did weare openly, and being tolde that the people mur<g ref="char:EOLhyphen"/>mured and diſliked at it, he ſaid he would do it, though he died for it. Thus wee may ſee how obdurate their hearts are in malice, and how obſtinate they ſhewe themſelues in the vaine toies and ſuperſtitious trifles of their owne imaginations.</p>
+            <p>Then the Deane, next the two Biſhops of <hi>Peterborough</hi> and <hi>Lincolne,</hi> the L. <hi>Wil<g ref="char:EOLhyphen"/>loughby of Parhan,</hi> the L. <hi>Mordant,</hi> the L. <hi>Compton,</hi> Sir <hi>Thomas Cicel</hi> all fower in gownes with white ſtaues, repreſenting the Steward, Chamberlain, Treſurer, &amp; Com<g ref="char:EOLhyphen"/>troller: after theſe 16 Scottes and French<g ref="char:EOLhyphen"/>men which had bin officers in her houſe: then Sir <hi>Andrew Nowel</hi> alone, carieng the ban<g ref="char:EOLhyphen"/>ner of Scotland: then <hi>Percullis</hi> the Harralde bearing the Crowne and Creſt, theron a red
+<pb n="4" facs="tcp:176881:3" rendition="simple:additions"/>Lion rampant crowned, holding a ſword the point vpward, the Helmet ouermanteled Guiles pondered ermyne: then the Target by <hi>Roges Dragon:</hi> the Sword by <hi>Yorke:</hi> the coat of Armes by <hi>Somerſet.</hi> Then <hi>Cla<g ref="char:EOLhyphen"/>renceaux</hi> with a Gentlema<g ref="char:cmbAbbrStroke">̄</g> at Armes. Then followed the Coffin couered with a paule of veluet, ſix Scutchions fixed theron, vpon the head wheref ſtood a Crowne of gold, 6 Gen<g ref="char:EOLhyphen"/>tlemen bearing the Corps vnder a veluet ca<g ref="char:EOLhyphen"/>napie born by theſe 4 Knights: viz. Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Manners,</hi> Sir <hi>Iohn Haſtings,</hi> Sir <hi>Iames Harrington</hi> and Sir <hi>Iohn Knight<g ref="char:EOLhyphen"/>lie:</hi> eight other banorets borne by 8 Squires, 4 on either ſide of the Coffin. After the corps came the heade Mourner, the Counteſſe of <hi>Bedford,</hi> aſſiſted by the two Earles of <hi>Rut<g ref="char:EOLhyphen"/>land</hi> &amp; <hi>Lincolne.</hi> The Lady <hi>Saint-Iohns</hi> of <hi>Baſing</hi> bearing her traine. Then followed by two and two other Ladies: the L. <hi>Talbot</hi> the L. <hi>Mordant,</hi> the L. <hi>Sauell,</hi> the L. <hi>Man<g ref="char:EOLhyphen"/>ners,</hi> the L. <hi>Cecill,</hi> the L. <hi>Mountegew,</hi> the Lady <hi>Nowell.</hi> The other Gentlemen. The ten Scottiſh &amp; French wome<g ref="char:cmbAbbrStroke">̄</g> of the Queens with black attire on their heads, of taffate be<g ref="char:EOLhyphen"/>fore, and hehind white Lawne, hanging down like French-hoodes. They with the Scot<g ref="char:EOLhyphen"/>tiſh and French men did all go out before the
+<pb n="5" facs="tcp:176881:4"/>Sermon (except M. Meluin who ſtaied) and the reſt came in when it was ended: the head Mourner, &amp; the Ladies, with the two Earls aſſiſtants were placed within the Hearſe: the two Knights with their banners were ſet at the eaſt end of the Hearſe without the pale, and the eight Squires with their bannorets, 4 of a ſide in like manner without the pale. Al the reſt of the Mourners were caried vp by an Harrald aboue the Hearſe, and placed of each ſide, the women next the altar. The Bi<g ref="char:EOLhyphen"/>ſhop &amp; the Deane ſtanding at the Altar with two gilded baſons, al which being placed and ſet, and the Church quiet, the Biſhop of <hi>Lin<g ref="char:EOLhyphen"/>colne</hi> began his Sermon, and in his praier vſed theſe wordes, <q>Let vs bleſſe God for the happie diſſolution of Marie, late the Scottiſh Queen and Dowager of France: of whoſe life and departure, whatſoeuer ſhall be expected, I haue nothing to ſay, for that I was vnacquain<g ref="char:EOLunhyphen"/>ted with the one, and not preſent at the other, of her M. faith and end I am not to iudge: It is a charitable ſaieng of the Father Luther: Many one liueth a Papiſt, and dieth a Prote<g ref="char:EOLhyphen"/>ſtant: Onely this I haue bene enformed, that ſhe tooke her death patiently, and recommen<g ref="char:EOLhyphen"/>ded her ſelfe wholy to Ieſus Chriſt.</q>
+            </p>
+            <p>The Sermon ended, a long peece of vel<g ref="char:EOLhyphen"/>uet
+<pb n="6" facs="tcp:176881:4"/>and a cuſhion was caried and laid for the Counteſſe to go and kneele vpon, hard before the Biſhops feete, then by the King of Har<g ref="char:EOLhyphen"/>ralds were caried the four officers with their white ſtaues, and placed two at the top of the ſtaires vnder the Biſhop &amp; two beneath them Then the two principal Harralds fetched vp the Counteſſe, the two Earles leading her, &amp; the Lady <hi>Saint-Iohns</hi> bearing vp her train: there ſhe kneeled a while, and then all retur<g ref="char:EOLhyphen"/>ned to their places, this was the firſt offering (not that <hi>Brakenburie</hi> went this time be<g ref="char:EOLhyphen"/>fore her) The two Earles placed without the pale before the Counteſſe, one of the Kinges of Harralds fetched from the Hearſe the coat armor brought it downe to the other King of Harralds, &amp; he deliuered it to the two Earls, they caried it (obeiſance beeing done to the Counteſſe) to the Biſhop, and kiſſed it in de<g ref="char:EOLhyphen"/>liuering of it. A third Harrald tooke it of the Biſhop and laide it downe on the Altar, the Sword, the Target, the Helmet, Crowne, and Creſt in like ſort was all done by the two Earles, kiſſing their hands before them: then were the two banners caried vp one after an<g ref="char:EOLhyphen"/>other ſeuerally by thoſe that brought them, and ſo ſet vpon the Altar, leaning to the wal, the other 8 Bannorets were put into the
+<pb n="7" facs="tcp:176881:5"/>Hearſe as they ſtood. Then went the Coun<g ref="char:EOLhyphen"/>teſſe, M. <hi>Iohn Manners</hi> holding vppe her traine the ſecond time, and offered alone to the Biſhop.</p>
+            <p>Then the Ladies and Gentlewomen by two and two went vp and offered, then the officers with white ſtaues offered: and laſt of all came there a Harralde to the pulpyt, and fetched the Biſhop of Lincolne, and then the moſt part of the Mourners departed in the ſame order they came in, &amp; toward the doore of the Chancell ſtoode the Scottiſh women, parted on both ſides, and as the Engliſh La<g ref="char:EOLhyphen"/>dies paſſed by, they kiſſed them all.</p>
+            <p>Then ouer the Vault where the body lay, the Deane read the ordinary wordes of buri<g ref="char:EOLhyphen"/>all, an this being done, the foure officers brake their white ſtaues ouer their heads, and threw them in<g ref="char:EOLhyphen"/>to the Vaulte.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176881:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
